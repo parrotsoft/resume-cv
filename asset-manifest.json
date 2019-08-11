@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/parrotsoft/resume-cv/static/css/main.654ef5d1.chunk.css",
-    "main.js": "/parrotsoft/resume-cv/static/js/main.8ffb82ee.chunk.js",
-    "main.js.map": "/parrotsoft/resume-cv/static/js/main.8ffb82ee.chunk.js.map",
-    "runtime~main.js": "/parrotsoft/resume-cv/static/js/runtime~main.91d69445.js",
-    "runtime~main.js.map": "/parrotsoft/resume-cv/static/js/runtime~main.91d69445.js.map",
-    "static/js/2.98dcc9dd.chunk.js": "/parrotsoft/resume-cv/static/js/2.98dcc9dd.chunk.js",
-    "static/js/2.98dcc9dd.chunk.js.map": "/parrotsoft/resume-cv/static/js/2.98dcc9dd.chunk.js.map",
-    "index.html": "/parrotsoft/resume-cv/index.html",
-    "precache-manifest.b6d451b64b40da37e9bdc2c784993a48.js": "/parrotsoft/resume-cv/precache-manifest.b6d451b64b40da37e9bdc2c784993a48.js",
-    "service-worker.js": "/parrotsoft/resume-cv/service-worker.js",
-    "static/css/main.654ef5d1.chunk.css.map": "/parrotsoft/resume-cv/static/css/main.654ef5d1.chunk.css.map",
-    "static/media/logo.svg": "/parrotsoft/resume-cv/static/media/logo.5d5d9eef.svg",
-    "static/media/profile.png": "/parrotsoft/resume-cv/static/media/profile.80c39f0b.png"
+    "main.css": "./static/css/main.654ef5d1.chunk.css",
+    "main.js": "./static/js/main.97737d17.chunk.js",
+    "main.js.map": "./static/js/main.97737d17.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "static/js/2.98dcc9dd.chunk.js": "./static/js/2.98dcc9dd.chunk.js",
+    "static/js/2.98dcc9dd.chunk.js.map": "./static/js/2.98dcc9dd.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.9e7cfd9249050d21e78f91b86b195a17.js": "./precache-manifest.9e7cfd9249050d21e78f91b86b195a17.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/main.654ef5d1.chunk.css.map": "./static/css/main.654ef5d1.chunk.css.map",
+    "static/media/logo.svg": "./static/media/logo.5d5d9eef.svg",
+    "static/media/profile.png": "./static/media/profile.80c39f0b.png"
   }
 }
