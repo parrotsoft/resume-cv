@@ -2,7 +2,7 @@
   "name": "resume-cv",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/parrotsoft/resume-cv",
+  "homepage": "./",
   "dependencies": {
     "bootstrap": "^4.3.1",
     "react": "^16.8.6",
