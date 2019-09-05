@@ -4,16 +4,16 @@ export default class Education extends Component {
     render() {
         return (
             <div className="education-container container-block">
-                <h2 className="container-block-title">Education</h2>
+                <h2 className="container-block-title">Educación</h2>
                 <div className="item">
-                    <h4 className="degree">MSc in Computer Science</h4>
-                    <h5 className="meta">University of London</h5>
-                    <div className="time">2011 - 2012</div>
+                    <h4 className="degree">Ing. de Sistemas</h4>
+                    <h5 className="meta">Fundación Universitaria San Martín</h5>
+                    <div className="time">2010 - 2012</div>
                 </div>
                 <div className="item">
-                    <h4 className="degree">BSc in Applied Mathematics</h4>
-                    <h5 className="meta">Bristol University</h5>
-                    <div className="time">2007 - 2011</div>
+                    <h4 className="degree">Ing. De Sistemas y Computación</h4>
+                    <h5 className="meta">Corporación Universitaria Latinoamericana</h5>
+                    <div className="time">2018 - Actual</div>
                 </div>
             </div>
         );

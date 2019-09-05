@@ -4,26 +4,29 @@ export default class Projects extends Component {
     render() {
         return (
             <section className="section projects-section">
-                <h2 className="section-title"><span className="icon-holder"><i className="fas fa-archive"></i></span>Projects</h2>
+                <h2 className="section-title"><span className="icon-holder"><i className="fas fa-archive"></i></span>Proyectos</h2>
                 <div className="intro">
-                    <p>You can list your side projects or open source libraries in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.</p>
+                    <p>Los siguientes son los proyectos mas importantes en los que participe con distintos roles, cada uno marco dejo conocimientos que hoy en día me convierten en un mejor desarrollador.</p>
                 </div>
                 <div className="item">
-                    <span className="project-title"><a href="#hook">Velocity</a></span> - <span className="project-tagline">A responsive website template designed to help startups promote, market and sell their products.</span>
-                    
+                    <span className="project-title">
+                        <a target="_blank" href="https://play.google.com/store/apps/details?id=myTienda.myTienda&hl=es">My Tienda</a></span> - <span className="project-tagline">Aplicativo web y móvil que permite la gestión de pedidos en negocios de barrios.</span>
+
                 </div>
                 <div className="item">
-                    <span className="project-title"><a href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-web-development-agencies-devstudio/" target="_blank">DevStudio</a></span> - 
-                    <span className="project-tagline">A responsive website template designed to help web developers/designers market their services. </span>
+                    <span className="project-title">
+                        <a href="http://18.188.136.180/views/login/login.php" target="_blank">PATI</a></span> -
+                    <span className="project-tagline">Aplicativo que implementa un canal de comunicación directo entre los profesores, administrativos, padres y estudiantes de instituciones educativas.</span>
                 </div>
                 <div className="item">
-                    <span className="project-title"><a href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-startups-tempo/" target="_blank">Tempo</a></span> - <span className="project-tagline">A responsive website template designed to help startups promote their products or services and to attract users &amp; investors</span>
+                    <span className="project-title">
+                        <a href="http://webappdev.taschedule.com/" target="_blank">TaSchedule</a></span> -
+                         <span className="project-tagline">Aplicativo para la gestión de ruta de busces públicos en Miami.</span>
                 </div>
                 <div className="item">
-                    <span className="project-title"><a href="hhttp://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-mobile-apps-atom/" target="_blank">Atom</a></span> - <span className="project-tagline">A comprehensive website template solution for startups/developers to market their mobile apps. </span>
-                </div>
-                <div className="item">
-                    <span className="project-title"><a href="http://themes.3rdwavemedia.com/website-templates/responsive-bootstrap-theme-for-mobile-apps-delta/" target="_blank">Delta</a></span> - <span className="project-tagline">A responsive Bootstrap one page theme designed to help app developers promote their mobile apps</span>
+                    <span className="project-title">
+                        <a href="http://dev.trip2.com" target="_blank">Trip2</a></span> -
+                        <span className="project-tagline">Aplicativo para la gestión de citas medicas y call center. </span>
                 </div>
             </section>
         );

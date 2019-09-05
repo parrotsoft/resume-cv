@@ -4,9 +4,9 @@ export default class CareerProfile extends Component {
     render() {
         return (
             <section className="section summary-section">
-                <h2 className="section-title"><span className="icon-holder"><i className="fas fa-user"></i></span>Career Profile</h2>
+                <h2 className="section-title"><span className="icon-holder"><i className="fas fa-user"></i></span>Sobre mí</h2>
                 <div className="summary">
-                    <p>Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit. You can <a href="https://themes.3rdwavemedia.com/bootstrap-templates/resume/orbit-free-resume-cv-bootstrap-theme-for-developers/" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.</p>
+                    <p>Hola, soy un apasionado por la programación en general, desde adolescente inicie un proceso de auto aprendizaje y día a día enriquezco mis conocimientos con nuevas herramientas. mis inicio en este camino se remontan al año 2003 con una computadora muy básica en comparación con las actuales y un viejo libro de segunda mano de Turbo Pascal, par de años después inicie mi labor con Delphi 5 y desde entonces no e parado de programar, en ocasiones por hobbies y otras por trabajo.</p>
                 </div>
             </section>
         );
